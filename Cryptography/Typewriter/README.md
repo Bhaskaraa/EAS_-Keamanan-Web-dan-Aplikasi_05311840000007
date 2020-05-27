@@ -7,7 +7,7 @@ ____________________________________
 
 ### Penyelesaian
 
-- Persoalan typewriter menggunakan format keyboard yang berbeda. Jika pada keyboard modern, dari sisi kiri atas dimulai dengan Q W E R T Y, pada typewriter menggunakan tombol keyboard lama, sehingga formating dimulai dari A B C D E. Format dari persoalan ini adalah sebagai berikut.
+- Persoalan typewriter menggunakan format keyboard yang berbeda dari keyboard modern. Jika pada keyboard modern, dari sisi kiri atas dimulai dengan Q W E R T Y, pada typewriter menggunakan tombol keyboard lama, sehingga formating dimulai dari A B C D E. Format dari persoalan ini adalah sebagai berikut.
 ```
 A B C D E F G H I J
  K L M N O P Q R S
