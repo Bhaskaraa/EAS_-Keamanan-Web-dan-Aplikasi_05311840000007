@@ -24,7 +24,7 @@ Untuk mendapatkan flag dari persoalan ini, penulis melakukan langkah-langkah seb
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/g3.png)
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/g4.png)
 - Setelah itu kita akan mendapatkan flag dari persoalan ini.
-1[](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/g5.png)
+![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/g5.png)
 ____________________________________
 
 ### Flag
