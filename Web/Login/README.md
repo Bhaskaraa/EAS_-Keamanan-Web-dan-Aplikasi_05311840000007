@@ -15,7 +15,7 @@ Untuk mendapatkan flag dari persoalan ini, penulis menggunakan langkah-langkah s
 var _0xb31c=['value','c2a094f7d35f2299b414b6a1b3bd595a','Sorry.\x20Wrong\x20username\x20o \x20password.','admin','tjctf{','getElementsByName','toString'];
 ``` 
 - Dari sources diatas, kita dapat mengetahui bahwa username adalah admin dan `c2a094f7d35f2299b414b6a1b3bd595a` adalah hash md5 yang merupakan passwordnya. 
-- Untuk mendapatkan message aslinya, kita dapat menggunakan bantuan [MD5 Decoder](https://www.md5online.org/md5-decrypt.html) untuk melakukan decode digest tersebut. 
+- Untuk mendapatkan message asli dari password, kita dapat menggunakan bantuan [MD5 Decoder](https://www.md5online.org/md5-decrypt.html) untuk melakukan decode digest tersebut. 
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Web/Login/Flag-Login2.PNG)
 - Hasil decode merupakan password dari username admin yakni `inevitable`. 
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Web/Login/Flag-Login.PNG)
