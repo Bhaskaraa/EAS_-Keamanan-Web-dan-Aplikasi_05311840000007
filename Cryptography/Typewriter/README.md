@@ -13,7 +13,7 @@ A B C D E F G H I J
  K L M N O P Q R S
   T U V W X Y Z
 ```
-- Kemduian konversi flag yang diberikan pada soal yakni `zpezy{ktr_gkqfut_hxkhst_tyukokkgotyt_hoftqhhst_ykxoz_qxilrtxiyf}` dengan format typewriter diatas dan akan ditemukan flag dari persoalan ini.
+- Kemudian konversi flag yang diberikan pada soal yakni `zpezy{ktr_gkqfut_hxkhst_tyukokkgotyt_hoftqhhst_ykxoz_qxilrtxiyf}` dengan format typewriter diatas dan akan ditemukan flag dari persoalan ini.
 ____________________________________
 
 ### Flag
