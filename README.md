@@ -23,7 +23,7 @@ Cryptography | Forensics | Miscellaneous | Reversing | Web | Binary
 [Tap Dancing]() |  |  |  |  | 
 [Titanic]() |  |  |  |  | 
 [Typewriter]() |
-[RGBSA]() |  |  |  |  | 
+
 
 ## Score Progression
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Score/Score%201.PNG)
