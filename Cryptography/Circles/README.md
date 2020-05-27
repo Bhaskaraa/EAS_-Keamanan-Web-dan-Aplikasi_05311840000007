@@ -15,7 +15,7 @@ ____________________________________
 
 - Gambar diatas menunjukan sebuah pola. 5 lingkaran paling kiri dapat penulis asumsikan sebagai awalan flag yakni ***tjctf***, sehingga penulis mencoba untuk mencari apakah yang digunakan pembuat soal untuk menyelimuti flag tersebut.
 - Melihat pola pada gambar, penulis curiga bahwa lingkaran-lingkaran pada gambar adalah sebuah font. Oleh karena itu, penulis mencoba mengidentifikasinya dengan menggunakan [Font Identifier](https://www.whatfontis.com/).
-- Penulis menemukan hasil dan font yang digunakan pada gambar adalah adalah [usf circular design](https://www.fonts.com/font/ultimate-symbol/usf-circular-designs/regular). 
+- Penulis menemukan hasil dan font yang digunakan pada gambar adalah adalah [USF Circular Design](https://www.fonts.com/font/ultimate-symbol/usf-circular-designs/regular). 
 - Penulis kemudian mengonversi font tersebut ke dalam plaintext dan didapatkan flag dari persoalan ini.
 ____________________________________
 
