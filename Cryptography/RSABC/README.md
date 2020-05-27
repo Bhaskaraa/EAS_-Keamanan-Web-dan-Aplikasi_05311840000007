@@ -24,7 +24,7 @@ p = 202049603951664548551555274464815496697
 q = 285934543893985722871321330457714807993
 ```
 
-- Kemudian input nilai dari variabel `n`, `e`, `c`, `p` dan `q` ke dalam program [RSABC.rb](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Cryptography/RSABC/RSABC.rb). Gunakan terminal untuk menjalankan program ruby. Penulis mengeksekusinya dengan command berikut. \
+- Kemudian input nilai dari variabel `n`, `e`, `c`, `p` dan `q` ke dalam program [RSABC.rb](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Cryptography/RSABC/RSABC.rb). Gunakan terminal untuk menjalankan program ruby. Penulis mengeksekusinya dengan command berikut. 
 
 `$ruby rsabc.rb`
 
