@@ -8,7 +8,8 @@ ____________________________________
 
 ### Penyelesaian
 
-***Note*** : Persoalan ini mirip dengan soal [Easy as RSA](https://github.com/zst-ctf/tjctf-2019-writeups/tree/master/Writeups/Easy_as_RSA) pada TJCTF 2019 sehingga penulis menggunakannya sebagai referensi.
+***Note*** : Persoalan ini mirip dengan soal [Easy as RSA](https://github.com/zst-ctf/tjctf-2019-writeups/tree/master/Writeups/Easy_as_RSA) pada TJCTF 2019 sehingga penulis menggunakannya sebagai referensi. \
+Berikut adalah tampilan dari soal yang diberikan.
 
 ```
 n=57772961349879658023983283615621490728299498090674385733830087914838280699121
@@ -23,8 +24,12 @@ p = 202049603951664548551555274464815496697
 q = 285934543893985722871321330457714807993
 ```
 
-- Kemudian input nilai dari variabel `n`, `e`, `c`, `p` dan `q` ke dalam program [RSABC.rb](). Gunakan terminal untuk menjalankan program ruby. Penulis mengeksekusinya dengan command berikut. \
+- Kemudian input nilai dari variabel `n`, `e`, `c`, `p` dan `q` ke dalam program [RSABC.rb](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Cryptography/RSABC/RSABC.rb). Gunakan terminal untuk menjalankan program ruby. Penulis mengeksekusinya dengan command berikut. \
+
 `$ruby rsabc.rb`
+
+***Note*** : Jika pembaca ingin mencoba, disarankan untuk menggunakan LINUX, dan jika belum menginstal ruby, dapat diinstal terlebih dahulu.
+- Ketika program telah berhasil dijalankan, flag akan langsung didapatkan.
 ____________________________________
 
 ### Flag
