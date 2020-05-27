@@ -7,7 +7,7 @@ ____________________________________
 
 ### Penyelesaian
 - Poin pertama yang penulis dapatkan adalah pada soal kita diberikan sebuah message digest, dimana kita diminta untuk mencari kata tersebut ketika belum di hash. Kata tersebut merupakan kata dari script film "Titanic". Kata dibuat lowercase dan berfromat flag yakni ***tjctf{}***. 
-- Pertama, penulis membuat dictionary sebagai kamus untuk me-***reverse*** hash tersebut. Dictionary merupakan script dari film "Titanic" dan dapat dilihat pada file [dictionary.txt]()
+- Pertama, penulis membuat dictionary sebagai kamus untuk me-***reverse*** hash tersebut. Dictionary merupakan script dari film "Titanic" dan dapat dilihat pada file [dictionary.txt](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Cryptography/Titanic/dictionary.txt)
 - Penulis menggunakan tool hashcat untuk me-***reverse*** digest soal. Jika pembaca belum memiliki hashcat, maka dapat menginstallnya menggunakan command `sudo apt-get install hashcat`.
 - Kemudian gunakan hashcat pada terminal dengan command sebagai berikut :
 
