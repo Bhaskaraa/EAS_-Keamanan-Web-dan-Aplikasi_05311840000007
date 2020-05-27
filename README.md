@@ -1,6 +1,6 @@
 # Evaluasi Akhir Semester - Keamanan Web dan Aplikasi 2020
 Repository sebagai Write-Up dan pemenuhan rangkaian Evaluasi Akhir Semester Keamanan Web dan Aplikasi 2020. \
-Disusun oleh "
+Disusun oleh :
 ```
 Nama Tim    :   Grizzly
 Poin        :   600
