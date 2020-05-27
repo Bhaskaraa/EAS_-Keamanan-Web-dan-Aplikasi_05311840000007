@@ -11,3 +11,5 @@ Departemen  :   Teknologi Informasi
 
 ## Pendahuluan Evaluasi
 Evaluasi Akhir Semester Keamanan Web dan Aplikasi 2020 berbentuk kegiatan CTF (Capture the Flag) yang dilaksanakan dalam rangkaian kegiatan [TJCTF Competition](https://tjctf.org/). Kegiatan ini dilaksanakan dari hari Sabtu, 23 Mei 2020 pukul 06.00 s.d. Rabu, 27 Mei 2020 pukul 06.00 WIB. Penulis ditugaskan untuk mengumpulkan ***flag*** dalam [List Problem](https://tjctf.org/chals/list) dan mengumpulkan poin sebanyak-banyaknya. 
+
+## Daftar Isi
