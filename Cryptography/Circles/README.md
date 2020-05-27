@@ -1,14 +1,14 @@
 
 
 # Circles
-**Soal**
+
+### Persoalan
 
 Some typefaces are mysterious, like this one - its origins are an enigma wrapped within a riddle, indeed.
 
 [Circles.png](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Cryptography/Circles/Circles.png)
-____________________________________
 
-**Jawaban**
+### Penyelesaian
 
 ![circle](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Cryptography/Circles/Circles.png)
 
