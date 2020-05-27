@@ -19,11 +19,11 @@ Untuk mendapatkan flag dari persoalan ini, penulis melakukan langkah-langkah seb
 3. go_run = -5
 4. go_sleep = -3
 ```
-- Untuk menjawab dan memecahkannya kita harus menginput angka berikut ini : ` 2 3 3 3 3 3 3 `. Angka-angka tersebut harus diinput secara berurutan dari pertanyaan 1 hingga 7 seperti pada gambar dibawah ini.
+- Untuk menjawab dan memecahkannya, penulis menginput angka berikut ini : ` 2 3 3 3 3 3 3 `. Angka-angka tersebut harus diinput secara berurutan dari pertanyaan 1 hingga 7 seperti pada gambar dibawah ini.
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/g2.png)
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/g3.png)
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/g4.png)
-- Setelah itu kita akan mendapatkan flag dari persoalan ini.
+- Setelah itu, akan didapatkan flag dari persoalan ini.
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/g5.png)
 ____________________________________
 
