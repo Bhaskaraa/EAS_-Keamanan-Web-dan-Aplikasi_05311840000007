@@ -13,7 +13,10 @@ ____________________________________
 
 ![circle](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Cryptography/Circles/Circles.png)
 
-Pada gambar, font yang digunakan adalah [usf circular design](https://www.fonts.com/font/ultimate-symbol/usf-circular-designs/regular). Setelah melakukan percobaan, akan didapatkan flagnya.
+- Gambar diatas menunjukan sebuah pola. 5 lingkaran paling kiri dapat penulis asumsikan sebagai awalan flag yakni ***tjctf***, sehingga penulis mencoba untuk mencari apakah yang digunakan pembuat soal untuk menyelimuti flag tersebut.
+- Melihat pola pada gambar, penulis curiga bahwa lingkaran-lingkaran pada gambar adalah sebuah font. Oleh karena itu, penulis mencoba mengidentifikasinya dengan menggunakan [Font Identifier](https://www.whatfontis.com/).
+- Penulis menemukan hasil dan font yang digunakan pada gambar adalah adalah [usf circular design](https://www.fonts.com/font/ultimate-symbol/usf-circular-designs/regular). 
+- Penulis kemudian mengonversi font tersebut ke dalam plaintext dan didapatkan flag dari persoalan ini.
 ____________________________________
 
 ### Flag
