@@ -6,7 +6,10 @@
 ____________________________________
 
 ### Penyelesaian
+Berikut adalah tampilan dari soal.
+```
 
+```
 Huruf yang digunakan adalah huruf latin yang "unik". Gunakan [website](https://cryptii.com/pipes/caesar-cipher) untuk mendecode. Dengan metode Alphabetical substitution, masukkan plaintext alphabet dan chiper aplhabet dengan huruf [unik](https://jrgraphix.net/r/Unicode/00A0-00FF).
 Kemudian akan didapat flagnya.
 ____________________________________
