@@ -1,1 +1,10 @@
-# EAS_-Keamanan-Web-dan-Aplikasi_05311840000007
+# Evaluasi Akhir Semester - Mata Kuliah Keamanan Web dan Aplikasi
+Repository sebagai Write-Up dan pemenuhan rangkaian Evaluasi Akhir Semester Keamanan Web dan Aplikasi
+
+```
+Nama Tim    :   Grizlly
+Poin        :   600
+Nama        :   I Gde Made Bhaskara Jala Dhananjaya 
+NRP         :   05311840000007 
+Departemen  :   Teknologi Informasi
+```
