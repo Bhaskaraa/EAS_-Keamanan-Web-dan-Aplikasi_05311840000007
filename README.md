@@ -26,5 +26,5 @@ Cryptography | Forensics | Miscellaneous | Reversing | Web |
 
 
 ## Score Progression
-![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Score/Score%201.PNG)
-![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Score/Score2.PNG)
+![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Score%20Progression%201.PNG)
+![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Score%20Progression%202.PNG)
