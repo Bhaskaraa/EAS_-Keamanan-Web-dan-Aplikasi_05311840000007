@@ -21,4 +21,4 @@ ____________________________________
 
 ### Flag
 
-Flag yang penulis dapatkan dari persoalan ini adalah `tjctf{B3auT1ful_f0Nt}`
+Flag yang penulis dapatkan dari persoalan ini adalah `tjctf{B3auT1ful_f0Nt}`.
