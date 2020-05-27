@@ -9,7 +9,7 @@ ____________________________________
 Berikut adalah tampilan dari persoalan.
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Forensics/Hexillology/Hexillology.png)
 
-- Pada persoalan ini terdapat hint **hex** dimana penulis curiga persoalan ini mengajak penulis untuk bermain dengan kode warna. Untuk itu, penulis mencoba mencari nilai hexa dari setiap warna yang ada pada persoalan diatas. 
+- Pada persoalan ini terdapat hint **hex** dimana penulis curiga bahwa persoalan ini mengajak penulis untuk bermain dengan kode warna. Untuk itu, penulis mencoba mencari nilai hexa dari setiap warna yang ada pada persoalan diatas. 
 - Untuk mencari nilai hexadesimal dari setiap warna, penulis menggunakan bantuan website [Colour Picker](https://imagecolorpicker.com/en/).
 - Kemudian didapatkan kode hexadecimal sebagai berikut. \
 `746a63 70594a 4b3064 50477d 74667b 726651 626154` \
