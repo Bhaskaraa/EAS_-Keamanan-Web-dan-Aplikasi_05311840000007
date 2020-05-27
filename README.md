@@ -21,7 +21,7 @@ Cryptography | Forensics | Miscellaneous | Reversing | Web |
 [RSABC](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Cryptography/RSABC/README.md) | [Rap God](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Forensics/Rap%20God/README.md) | [Discord](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Miscellaneous/Discord/README.md) | [Gym](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/README.md) | [Login](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Web/Login/README.md) |
 [Speedrunner](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Cryptography/Speedrunner/README.md) |  | [Zipped Up](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Miscellaneous/Zipped%20Up/README.md) |  | [Sarah Palin Fanpage](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Web/Sarah%20Palin%20Fanpage/README.md) |
 [Tap Dancing](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Cryptography/Tap%20Dancing/README.md) |  |  |  |  | 
-[Titanic](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Cryptography/Tap%20Dancing/README.md) |  |  |  |  | 
+[Titanic](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Cryptography/Titanic/README.md) |  |  |  |  | 
 [Typewriter](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Cryptography/Typewriter/README.md) |
 
 
