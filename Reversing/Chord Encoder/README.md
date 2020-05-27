@@ -16,4 +16,4 @@ ____________________________________
 
 ### Flag
 
-Flag yang penulis dapatkan dari persoalan ini adalah flag{zats_wot_1_call_a_meloD}
+Flag yang penulis dapatkan dari persoalan ini adalah `flag{zats_wot_1_call_a_meloD}`.
