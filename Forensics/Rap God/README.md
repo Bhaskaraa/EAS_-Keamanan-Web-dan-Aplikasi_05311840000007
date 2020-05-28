@@ -16,7 +16,7 @@ ____________________________________
 
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Forensics/Rap%20God/Wingdings.jpg)
 
-- Kemudian, kita menerjemahkan wingdings character dari persoalan dengan bantuan. Setelah itu, kita akan mendapatkan flag dari persoalan ini.
+- Kemudian, kita menerjemahkan wingdings character dari gambar tersebut. Dan terakhir, kita akan mendapatkan flag dari persoalan ini.
 ____________________________________
 
 ### Flag
