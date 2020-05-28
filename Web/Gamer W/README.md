@@ -9,7 +9,7 @@ ____________________________________
 ### Penyelesaian
 Sebelum mulai bermain, ada sebuah instruksi dalam game, tepatnya di bawah kata play seperti gambar berikut.
 
-![]()
+![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Web/Gamer%20W/Gamer1.PNG)
 
 ***Note*** : pada game tersebut, penulis diinstrusikan untuk menggunakan chrome extension **Cetus**. Penulis mengunduh ekstensi ini dalam Github [Qwokka](https://github.com/Qwokka/Cetus) dan sekaligus menggunakannya sebagai referensi. Cetus sendiri berfungsi untuk memanipulasi value dari suatu memory yang tersimpan.
 
