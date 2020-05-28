@@ -7,6 +7,7 @@ ____________________________________
 
 ### Penyelesaian
 Berikut adalah tampilan dari persoalan.
+
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Forensics/Hexillology/Hexillology.png)
 
 - Pada persoalan ini terdapat hint **hex** dimana penulis curiga bahwa persoalan ini mengajak penulis untuk bermain dengan kode warna. Untuk itu, penulis mencoba mencari nilai hexa dari setiap warna yang ada pada persoalan diatas. 
