@@ -6,31 +6,42 @@ Can you figure out how to [cheat](https://gamer_w.tjctf.org/) the system? Grab h
 
 ____________________________________
 
-### Persoalan
+### Penyelesaian
+Sebelum mulai bermain, ada sebuah instruksi dalam game, tepatnya di bawah kata play seperti gambar berikut.
 
-Pada game tersebut diberitahu bahwa harus menggunakan chrome extension **Cetus** yang dapat diunduh dari [sini](https://github.com/Qwokka/Cetus). Cetus dimanfaatkan untuk memanipulasi game tersebut. 
-Langkah pertama, masuk ke dalam shop. Yang dapat kita ubah adalah value dari gold itu sendiri. Search menggunakan Cetus dengan comparison operator **EQ** dan value type **f32**. 
-![Tampilan Cetus](https://github.com/lumbricina/TJCTF-2020-05311840000044/blob/master/Web/Gamer%20W/cetus.png)
+![]()
 
-Setelah dicari, akan didapatkan kode untuk gold adalah : `0x02111f3c`. Kemudian bookmark dan ubah value goldnya menjadi banyak untuk membeli semua yang ada di shop. 
-Level 1 akan melawan 1 monster hijau yang bisa diselesaikan tanpa menggunakan cheat apapun.
-![Lv 1](https://github.com/lumbricina/TJCTF-2020-05311840000044/blob/master/Web/Gamer%20W/lv%201.PNG)
+***Note*** : pada game tersebut, penulis diinstrusikan untuk menggunakan chrome extension **Cetus**. Penulis mengunduh ekstensi ini dalam Github [Qwokka](https://github.com/Qwokka/Cetus) dan sekaligus menggunakannya sebagai referensi. Cetus sendiri berfungsi untuk memanipulasi value dari suatu memory yang tersimpan.
 
-Level 2 akan melawan 3 monster hijau yang sama dengan level 1. Dengan sedikit skill untuk bermain game dapat dimenangkan tanpa harus menggunakan cheat
-![Lv 2](https://github.com/lumbricina/TJCTF-2020-05311840000044/blob/master/Web/Gamer%20W/lv%202.PNG)
+- Langkah pertama, masuk ke dalam shop. Kemudian, penulis melakukan search ***value health point*** dengan comparison operator ***EQ*** dan value types ***F32***.
 
-Level 3 akan muncul boss pemilik monster monster tersebut. Boss pada level ini masih dapat dikalahkan tanpa harus menggunakan cheat
-![Lv 3](https://github.com/lumbricina/TJCTF-2020-05311840000044/blob/master/Web/Gamer%20W/lv%203.PNG)
+![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Web/Gamer%20W/GamerW-Cetus.png)
 
-Level 4 boss tersebut akan ter-upgrade dan memiliki machine gun yang dapat menembak banyak peluru hijau sekaligus. Disinilah saatnya menggunakan cheat :thumbsup:
-![Lv 4](https://github.com/lumbricina/TJCTF-2020-05311840000044/blob/master/Web/Gamer%20W/lv%204.PNG)
-Gunakan Cetus untuk mengubah total hp dari pemain kita. Kode untuk hp pemain adalah : `0x2112f1c`. Bookmark dan ubah valuenya menjadi banyak supaya tidak mati-mati saat terkena tembakan hijau.
+- Kemudian  penulis mencari musuh pada chapter 1 seperti di bawah ini.
+
+![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Web/Gamer%20W/Gamer2.PNG)
+
+- Biarkan musuh melakukan serangan terhadap karakter untuk mengurangi HP. Cari kembali value health point, namun comparison operator dalam cetus diubah menjadi LT. Setelah itu, pilih hasil search yang sesuai dengan value health point. Lalu, buka bookmarks dan freeze value health point tersebut. Setelah langkah ini, cheat untuk HP telah diaktifkan.
+- Setelah mengalahkan musuh chapter 1, penulis dihadapkan dengan musuh chapter 2 seperti gambar berikut.
+
+![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Web/Gamer%20W/Gamer3.PNG)
+
+- Ketika musuh chapter 2 telah dikalahkan, pada chapter 3 akan muncul boss pemilik monster tersebut. Boss pada chapter 3 ini masih dapat penulis kalahkan hanya dengan menggunakan cheat HP.
+
+![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Web/Gamer%20W/Gamer4.PNG)
+
+- Chapter terakhir adalah seperti di bawah ini. Boss telah menggunakan Super Powernya dan meng-Upgrade Machine Gun-nya.
+
+![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Web/Gamer%20W/Gamer5.PNG)
+
+- Sebelum penulis melawan boss pada chapter ini, penulis melakukan cheat pada Gold terlebih dahulu. Cheat dapat dilakukan dengan cara yang sama saar penulis mengaktifkan cheat HP. Caranya yakni dengan pergi ke shop (ruangan bagian kiri), lalu cari/search value Gold saat ini dengan comparison operator ***EQ*** dan value type ***F32***. Kemudian, penulis membeli sesuatu sehingga Gold berkurang. Selanjutnya, cari kembali value gold namun comparison operator yang telah diubah menjadi ***LT***. Sama seperti cheat HP sebelumnya, kita akan mencentang ***freeze*** pada bookmarks value Gold. 
+- Ketika cheat Gold telah diaktifkan, penulis meng-upgrade semua stat player hingga maksimal. Dan sebelum melawan boss, penulis mengaktifkan kembali cheat HP dengan cara mencentang freeze pada bookmarks value HP. 
 
 Level 5 boss akan minum potion yang membuat lifenya regenerate jika terkena serangan. Disini manfaatkan lagi cheat untuk mengubah hp dari bossnya. Boss tersebut memiliki hp 300, dapat diketahui dengan cara menghitung :smirk: . Kode untuk hp boss adalah : `0x2112e4c`. Bookmark, freeze, dan ubah valuenya menjadi 0. 
 
 Yeay menang!
 ____________________________________
 
-### Persoalan
+### Flag
 
 Flag yang penulis dapatkan dari persoalan ini `adalah tjctf{c3tus_del3tus_ur_m3ms_g0ne}`.
