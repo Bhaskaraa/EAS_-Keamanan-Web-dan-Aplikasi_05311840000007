@@ -1,12 +1,12 @@
-
-
 # Gamer W
-**Soal**
+
+### Persoalan
 
 Can you figure out how to [cheat](https://gamer_w.tjctf.org/) the system? Grab his hat to prove your victory!
 
 ____________________________________
-**Jawaban**
+
+### Persoalan
 
 Pada game tersebut diberitahu bahwa harus menggunakan chrome extension **Cetus** yang dapat diunduh dari [sini](https://github.com/Qwokka/Cetus). Cetus dimanfaatkan untuk memanipulasi game tersebut. 
 Langkah pertama, masuk ke dalam shop. Yang dapat kita ubah adalah value dari gold itu sendiri. Search menggunakan Cetus dengan comparison operator **EQ** dan value type **f32**. 
@@ -30,6 +30,7 @@ Level 5 boss akan minum potion yang membuat lifenya regenerate jika terkena sera
 
 Yeay menang!
 ____________________________________
-**Flag**
 
-tjctf{c3tus_del3tus_ur_m3ms_g0ne}
+### Persoalan
+
+Flag yang penulis dapatkan dari persoalan ini `adalah tjctf{c3tus_del3tus_ur_m3ms_g0ne}`.
