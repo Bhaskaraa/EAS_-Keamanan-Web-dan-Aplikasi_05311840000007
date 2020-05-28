@@ -1,4 +1,4 @@
-# Hexollology
+# Hexillology
 
 ### Persoalan
 
