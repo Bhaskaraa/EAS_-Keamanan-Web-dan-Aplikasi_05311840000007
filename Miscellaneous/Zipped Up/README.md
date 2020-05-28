@@ -8,7 +8,7 @@ ____________________________________
 ### Penyelesaian
 
 Penulis menyelesaikan persoalan ini dengan langkah-langkah sebagai berikut.
-- Pertama, penulis mendownload file [zip](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Miscellaneous/Zipped%20Up/zipped-up.zip) dari persoalan. Kemudian, penulis meng-ekstrak file tersebut dan menghasilkan sebuah direktori bernama ***0***. Pada direktori 0, terdapat file bernama ***1.tar.gz*** yang jika di-ekstrak kembali, akan menghasilkan file yang sama dan terdapat folder 2, dan hal berulang seterusnya. Untuk membuka semua direktori yang ada, penulis menggunakan bantuan program python [unar.py]() dengan menjalakan command berikut.
+- Pertama, penulis mendownload file [zip](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Miscellaneous/Zipped%20Up/zipped-up.zip) dari persoalan. Kemudian, penulis meng-ekstrak file tersebut dan menghasilkan sebuah direktori bernama ***0***. Pada direktori 0, terdapat file bernama ***1.tar.gz*** yang jika di-ekstrak kembali, akan menghasilkan file yang sama dan terdapat folder 2, dan hal ini berulang seterusnya. Untuk membuka semua direktori yang ada, penulis menggunakan bantuan program python [unar.py]() dengan menjalakan command berikut.
 
 `python unar.py`
 
