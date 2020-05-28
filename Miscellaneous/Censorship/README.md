@@ -9,11 +9,11 @@ ____________________________________
 
 ### Penyelesaian
 
-***Note*** : pada soal dikatakan, bawa teman dari pembuat soal mengirimkan pesan namun pesan tersebut disensor, sehingga penulis memutuskan untuk melihat traffic dari pengiriman dan pengeksekusian program. Pada persoalan ini, penulis menggunakan bantuan tools Wireshark pada Linux. Jika pembaca belum memiliki Wireshark, dapat menginstallnya dengan command di bawah ini. \
+***Note*** : pada soal dikatakan, bawa teman dari pembuat soal mengirimkan pesan namun pesan tersebut disensor, sehingga penulis memutuskan untuk melihat traffic dari pengiriman dan pengeksekusian program. Pada persoalan ini, penulis menggunakan bantuan tools Wireshark pada Linux. Jika pembaca belum memiliki Wireshark, dapat menginstallnya dengan command di bawah ini. 
 
 `sudo apt-get install wireshark`
 
-- Pertama, penulis menjalankan wireshark terlebih dahulu. Kemudian, buka terminal baru untuk menjalankan `nc p1.tjctf.org 8003`. - Setelah itu akan muncul sebuah pertanyaan sederhana. Penulis mencoba menjawab pertanyaan tersebut dan didapatkan hasil seperti di bawah ini. Akan muncul flag `tjctf{[CENSORED]}`.<br>
+- Pertama, penulis menjalankan wireshark terlebih dahulu. Kemudian, buka terminal baru untuk menjalankan `nc p1.tjctf.org 8003`. - Setelah itu akan muncul sebuah pertanyaan sederhana. Penulis mencoba menjawab pertanyaan tersebut dan didapatkan hasil seperti di bawah ini. Akan muncul flag `tjctf{[CENSORED]}`.
 
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Miscellaneous/Censorship/Censored1.png)
 
