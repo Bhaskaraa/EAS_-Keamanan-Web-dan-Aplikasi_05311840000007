@@ -11,8 +11,10 @@ ____________________________________
 Untuk menemukan flag pada persoalan ini, penulis menggunakan langkah-langkah sebagai berikut.
 - Pertama, klik menu [VIP area](https://sarah_palin_fanpage.tjctf.org/exclusive) pada web tersebut. 
 - Kemudian buka ekstensi cookie dipojok kanan atas, dan lihat data cookie. 
+
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Web/Sarah%20Palin%20Fanpage/flag-sarah.PNG)
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Web/Sarah%20Palin%20Fanpage/flag-sarah2.png)
+
 - Value dari cookie tersebut merupakan hasil encode dengan metode Base64. Lalu, copy semua value dari cookie tersebut. Penulis akan melakukan decode dengan bantuan [Base64 Encode and Decode](https://www.base64decode.org/). 
 Hasil decode tampak seperti ini : `{"1":false,"2":false,"3":false,"4":false,"5":false,"6":false,"7":false,"8":false,"9":false,"10":false}`
 - Kemudian, ubah kata `false` menjadi `true` dan lakukan encode kembali dengan base64. Dan, masukkan kembali ke value pada data cookie dan refresh page.
