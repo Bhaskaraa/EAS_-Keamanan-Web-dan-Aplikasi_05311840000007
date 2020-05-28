@@ -9,10 +9,12 @@ ____________________________________
 
 ***Note*** : pada persoalan ini, hint yang diberikan sudah sangat jelas yakni ***I made this meme***, dimana flag merupakan artist dari pembuat meme pada persoalan. \
 Berikut adalah tampilan dari persoalan.
+
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Forensics/Ling%20Ling/meme.png)
 - Untuk mencari artist dari meme diatas, penulis menggunakan bantuan website [Fotoforensics](http://fotoforensics.com/).
 - Penulis mengunggah file gambar [meme.png](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Forensics/Ling%20Ling/meme.png) ke website dan melihat data mengenai forensik gambarnya.
 - Dan pada bagian EXIF dan artist, penulis telah menemukan flag dari persoalan ini.
+
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Forensics/Ling%20Ling/Artist.PNG)
 
 ____________________________________
