@@ -14,7 +14,7 @@ ____________________________________
 `sudo apt-get install wireshark`
 
 - Pertama, penulis menjalankan wireshark terlebih dahulu. Kemudian, buka terminal baru untuk menjalankan `nc p1.tjctf.org 8003`.
-- Setelah itu akan muncul sebuah pertanyaan sederhana. Penulis mencoba menjawab pertanyaan tersebut dan didapatkan hasil seperti di bawah ini. Akan muncul flag `tjctf{[CENSORED]}`.
+- Setelah itu akan muncul sebuah pertanyaan sederhana. Penulis mencoba menjawab pertanyaan tersebut dan didapatkan hasil seperti di bawah ini.
 
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Miscellaneous/Censorship/Censored1.png)
 
