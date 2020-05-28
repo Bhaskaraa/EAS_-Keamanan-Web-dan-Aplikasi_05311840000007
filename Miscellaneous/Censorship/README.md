@@ -15,15 +15,15 @@ ____________________________________
 
 - Pertama, penulis menjalankan wireshark terlebih dahulu. Kemudian, buka terminal baru untuk menjalankan `nc p1.tjctf.org 8003`. - Setelah itu akan muncul sebuah pertanyaan sederhana. Penulis mencoba menjawab pertanyaan tersebut dan didapatkan hasil seperti di bawah ini. Akan muncul flag `tjctf{[CENSORED]}`.<br>
 
-![]()
+![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Miscellaneous/Censorship/Censored1.png)
 
-Akan muncul flag `tjctf{[CENSORED]}`.<br>
-Buka wireshark dan cari di port 8003 akan terdapat flag asli yang tidak tersensor
+Muncul sebuah flag namun masih dalam bentuk tersensor `tjctf{[CENSORED]}`.
+- Kemudian, penulis membuka wireshark dan mencari di port 8003 sesuai dengan pernyataan pada persoalan. 
+- Pada port tersebut, terdapat flag asli yang tidak tersensor dari persoalan ini seperti gambar dibawah ini.
 
-![](https://github.com/lumbricina/TJCTF-2020-05311840000044/blob/master/Miscellaneous/Censorship/wireshark.PNG)
+![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Miscellaneous/Censorship/Censored3.png)
 ____________________________________
-
 
 ### Flag
 
-Flag yang penulis dapatkan dari persoalan ini adalah tjctf{TH3_1llum1n4ti_I5_R3aL}
+Flag yang penulis dapatkan dari persoalan ini `adalah tjctf{TH3_1llum1n4ti_I5_R3aL}`.
