@@ -10,6 +10,7 @@ ____________________________________
 
 Untuk mendapatkan flag dari persoalan ini, penulis melakukan langkah-langkah sebagai berikut.
 - Langkah pertama buka Linux dan jalankan `nc p1.tjctf.org 8008` di terminal. 
+
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/g1.png)
 
 - Akan muncul 7 pertanyaan yang sama untuk dijawab. Melalui berbagai percobaan menggunakan ghidra, program tersebut di reverse menjadi c program dengan ketentuan berikut :
@@ -20,10 +21,12 @@ Untuk mendapatkan flag dari persoalan ini, penulis melakukan langkah-langkah seb
 4. go_sleep = -3
 ```
 - Untuk menjawab dan memecahkannya, penulis menginput angka berikut ini : ` 2 3 3 3 3 3 3 `. Angka-angka tersebut harus diinput secara berurutan dari pertanyaan 1 hingga 7 seperti pada gambar dibawah ini.
+
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/g2.png)
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/g3.png)
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/g4.png)
 - Setelah itu, akan didapatkan flag dari persoalan ini.
+
 ![](https://github.com/Bhaskaraa/EAS_Keamanan-Web-dan-Aplikasi_05311840000007/blob/master/Reversing/Gym/g5.png)
 ____________________________________
 
